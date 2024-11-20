@@ -16,7 +16,7 @@ class EditProfileScreen extends StatelessWidget {
             CircleAvatar(
               radius: 50,
               backgroundImage:
-                  AssetImage('assets/images/refk.jpeg'),
+                  AssetImage('assets/images/refki.jpeg'),
             ),
             SizedBox(height: 16),
             TextField(
