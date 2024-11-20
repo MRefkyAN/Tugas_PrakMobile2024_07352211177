@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
     {
       'imageUrl': 'assets/images/tree.jpg', // Gambar dari assets
       'title': 'Russian warship: Moskva sinks in Black Sea',
-      'author': 'Lila',
+      'author': 'Refki',
       'description':
           'Cukup salin salah satu URL di atas dan gunakan sebagai imageUrl di aplikasi Flutter atau HTML <img> tag.Kamu juga bisa mengunduh gambar dari URL tersebut dan menyimpannya untuk digunakan secara offline.',
       'time': '4h ago',
@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
       'imageUrl': 'assets/images/tree.jpg', // Gambar dari assets
       'title':
           "Ukraine's President Zelensky to BBC: Blood money being paid for Russian oil",
-      'author': 'Lila',
+      'author': 'Refki',
       'description':
           'Cukup salin salah satu URL di atas dan gunakan sebagai imageUrl di aplikasi Flutter atau HTML <img> tag.Kamu juga bisa mengunduh gambar dari URL tersebut dan menyimpannya untuk digunakan secara offline.',
       'time': '14m ago',
@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
       'imageUrl': 'assets/images/tree.jpg', // Gambar dari assets
       'title':
           "Ukraine's President Zelensky to BBC: Blood money being paid for Russian oil",
-      'author': 'Lila',
+      'author': 'Refki',
       'description':
           'Cukup salin salah satu URL di atas dan gunakan sebagai imageUrl di aplikasi Flutter atau HTML <img> tag.Kamu juga bisa mengunduh gambar dari URL tersebut dan menyimpannya untuk digunakan secara offline.',
       'time': '14m ago',
