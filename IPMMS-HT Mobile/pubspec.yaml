@@ -1,0 +1,41 @@
+name: organitation
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^1.0.0
+  url_launcher: ^6.1.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/images/ketum1.jpg
+      - assets/images/article1.jpeg
+      - assets/images/article2.jpeg
+      - assets/images/article3.jpeg
+      - assets/images/article4.jpeg
+      - assets/images/article5.jpeg
+      - assets/images/Logo1.png
+      - assets/images/profile.png
+      - assets/images/ketum.jpeg
+      - assets/images/sekum.jpeg
+      - assets/images/bendahara.jpeg
+      - assets/images/P.A.O.jpeg
+      - assets/images/SDM.jpeg
+      - assets/images/administrasi.jpeg
+      - assets/images/humas.jpeg
+      - assets/images/admin.png
