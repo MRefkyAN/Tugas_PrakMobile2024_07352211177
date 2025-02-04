@@ -1,0 +1,33 @@
+name: latihan2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  http: ^1.0.0
+  flutter:
+    sdk: flutter
+
+  google_sign_in: ^6.2.1
+  firebase_core: ^2.26.0
+  firebase_auth: ^4.17.7
+  firebase_database: ^10.5.7
+  font_awesome_flutter: ^10.4.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/forgotpass.png
+    - assets/images/verify.png
+    - assets/images/home.png
+    - assets/images/admin.png
